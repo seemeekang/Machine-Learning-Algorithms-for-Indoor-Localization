@@ -1,7 +1,7 @@
 ## Dataset
 Download dataset using the link https://www.nada.kth.se/cas/COLD/downloads.php.
-Freiburg Lab, Part A, Path 2 (extended), sequence 1 of cloud, night and sunny
-All text files listed below includes image file names and corresponding labels
+Freiburg Lab, Part A, Path 2 (extended), sequence 1 of cloud, night and sunny.
+All text files listed below includes image file names and corresponding labels.
 1. train_std.txt, val_std.txt, test_std.txt : shuffled mixed training, validation and test set
 2. train_night.txt, val_night.txt, test_sc.txt: night data for training and validation, sunny dand cloudy data for test.
 
